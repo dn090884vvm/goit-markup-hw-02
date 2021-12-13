@@ -257,3 +257,45 @@ footer-address-destination:focus {
   color: var(--accent-color);
 }
 /* end of footer */
+
+/* PORTFOLIO PAGE */
+
+/* main */
+.portfolio {
+  background-color: var(--primary-white-color);
+}
+
+.portfolio-button-choose {
+  font-family: roboto, sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: var(--primary-text-color);
+  background-color: var(--gray-bg-color);
+}
+
+.portfolio-button-choose:hover,
+.portfolio-button-choose:focus {
+  color: var(--primary-white-color);
+  background-color: var(--accent-color);
+}
+.portfolio-examples-title {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+
+  color: var(--primary-text-color);
+}
+.portfolio-examples-about {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.87;
+  letter-spacing: 0.03em;
+
+  color: var(--secondary-text-color);
+}
+/* end of main */
