@@ -158,6 +158,8 @@ body {
 
   color: var(--primary-white-color);
   background-color: var(--accent-color);
+
+  cursor: pointer;
 }
 
 .hero-button:hover,
@@ -275,6 +277,8 @@ footer-address-destination:focus {
 
   color: var(--primary-text-color);
   background-color: var(--gray-bg-color);
+
+  cursor: pointer;
 }
 
 .portfolio-button-choose:hover,
